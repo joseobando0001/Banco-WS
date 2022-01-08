@@ -38,12 +38,12 @@ This project was generated with [Spring Initializr](https://start.spring.io/) ve
 ## Tests JUnit
 
 El proyecto tambien cuenta con sus tests respectivos entre los cuales son:
--CuentaRepositoryTest.java
--PersonaRepositoryTest.java
--TransaccionRepositoryTest.java
+- CuentaRepositoryTest.java
+- PersonaRepositoryTest.java
+- TransaccionRepositoryTest.java
 
 Ademas de el principal donde se probo la creacion de los respectivos controladores:
--PichinchaApplicationTests.java
+- PichinchaApplicationTests.java
 
 
 ## Author
