@@ -21,7 +21,7 @@ Quick start options:
 
 ## Terminal Commands
 
-This project was generated with [Spring Initializr](https://start.spring.io/) version 2.5.6.
+This project was generated with [Spring Initializr](https://start.spring.io/) version 2.5.2.
 
 1.Una vez descargado del repositorio, debes tomar en cuenta tener instalado JAVA en tu computadora.
 
@@ -34,6 +34,16 @@ This project was generated with [Spring Initializr](https://start.spring.io/) ve
 5.Puedes probar que esta corriendo en `http://localhost:8000/`, tambien puedes cambiarlo si deseas
 
 6.Si deseas ver todas las api's existentes en el proyecto puedes poner en el siguiente enlace: `http://localhost:8000/swagger-ui.html`
+
+## Tests JUnit
+
+El proyecto tambien cuenta con sus tests respectivos entre los cuales son:
+-CuentaRepositoryTest.java
+-PersonaRepositoryTest.java
+-TransaccionRepositoryTest.java
+
+Ademas de el principal donde se probo la creacion de los respectivos controladores:
+-PichinchaApplicationTests.java
 
 
 ## Author
