@@ -10,8 +10,8 @@ Para ello, se ha encontrado que los principales involucrados para poder desarrol
 Lo que busca esta aplicación es ayudar a que se pueda llevar el registro de las transacciones, ademas de saber las cuentas pertenecientes, agregar dichas cuentas y actualizarlas, ademas de revisar el registro de transacciones por fechas y cuentas. 
 ## Demo 🚀
 
-Directamente se puede observar la app funcionando: 
-[View Demo](https://banco-ws.herokuapp.com/BancoWS/)
+Directamente se puede observar la app funcionando directamente con su documentación desde Swagger: 
+[View Demo](https://banco-ws.herokuapp.com/swagger-ui.html)
 
 ## Quick start
 
